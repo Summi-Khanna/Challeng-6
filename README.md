@@ -42,10 +42,10 @@ For better understanding of the analysis, snapshots of the plots are proivided b
 ![Housing Units](Images/Housing_units.png)  
 
 
-![Sale Price per Sqft & Gross Rent](Images/Housing sales price and gross rent.png)  
+![Sale Price per Sqft & Gross Rent](Images/Housing_price.png)  
 
 
-![Sale Price per Sqft & Gross Rent Grouped by Neighborhood](Images/Neighborhood wise.png)  
+![Sale Price per Sqft & Gross Rent Grouped by Neighborhood](Images/Neighborhood.png)  
 
 
 ![Neighborhoods by Sale Price per Square Foot and Gross Rent by map](Images/Map.png)  
